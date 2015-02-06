@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">USATodayHTTPSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="USATodayJSONKey">
+        <item>stories</item>
+        <item>description</item>
+        <item>link</item>
+        <item>pubDate</item>
+        <item>title</item>
+    </string-array>
+
+</resources>
